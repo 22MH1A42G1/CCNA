@@ -1,0 +1,38 @@
+Routing  - forwarding the traffic from one network to another network
+
+Roter - 2 networks - router 2 networks
+
+Static routing - the growing number of networks should be manually added to every router
+
+1 - 2 - 3 - 4 - 5
+
+All router should be updated with all networks information
+
+Manual work
+
+Dynamic Routing
+	rip
+	ospf
+	eigrp
+For every router - propagates its own network in one routing protocol 
+- routing protocol - routing protocol will communicate with another router and update the information
+
+unicasting
+broadcasting
+multicasting - 
+
+15 routers - 15 hops
+Rip nextgen
+
+
+Version - IPv6 also
+
+Rip subnetting
+
+Ospf
+	single area OSPF
+	multi area OSPF
+
+RIP VERSION 2
+
+this is mini project like RIP with Dynamic Routing
